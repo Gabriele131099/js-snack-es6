@@ -1,19 +1,13 @@
 const giocatore = [
     {
         nome: "Juventus",
-        punti: 0,
-        falli: 0,
        
       } ,
       {
         nome: "Real Madrid",
-        punti: 0,
-        falli: 0,
         } ,
       {
         nome: "Barcellona",
-        punti: 0,
-        falli: 0,
       }   
   ]
 const arrayGiocatore = []
